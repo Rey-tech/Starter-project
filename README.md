@@ -2,7 +2,6 @@
 
 Docs: https://designbycode.github.io/hoodoo/
 
-# Test
 
 Install packages
 
